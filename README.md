@@ -1,3 +1,3 @@
 # hello-world
-Hi my names Rebecca.
-I love chocolate.
+Hi my name is Rebecca.
+
